@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+}
+.carousel-inner .carousel-item img{
+    height: 100vh;
+}
+main{
+    margin-top: 5.5rem;
+}
+main h1{
+    font-size: 5rem;
+}
+main p{
+    font-size: 2rem;
+}
+
+.formulario{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 50%;
+}
